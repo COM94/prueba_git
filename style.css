@@ -1,0 +1,78 @@
+.textoinformativo {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: white;
+    font-size: 18px;
+}
+
+.subtitulos {
+
+    font-family: 'Arial Narrow', sans-serif;
+    font-size: 35px;
+    color: white;
+
+}
+.Monoton {
+
+    font-family: "Monoton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: red;
+  font-size: 100px;
+  
+}
+
+.arial{
+    font-family: 
+}
+
+.textojustificado {
+
+    text-align: justify;
+}
+
+.textorojo {
+    color: red;
+}
+
+.textoblanco {
+    color: white;
+}
+
+.textogrande {
+
+    font-size: 100px;
+}
+
+.textomediano {
+
+    font-size: 35px;
+}
+
+.textonormal {
+
+    font-size: 18px;
+}
+
+.border{
+
+       border: 5px solid #aa0303;
+       text-align: center;
+       border-radius: 15px;
+}
+
+
+.Practicas_de_Git {
+
+    width: 1200px;
+    height: 950px;
+    border: 10px solid red;
+    border-radius: 15px;
+}
+
+.DivRenglon {
+
+    width: 100%;
+    text-align: center;
+}
