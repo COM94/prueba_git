@@ -1,3 +1,25 @@
+.caja_flexbox {
+
+    height: 500px;
+    width: 800px;
+    background-color: rgb(81, 69, 102);
+    display: flex;
+    flex-direction: inherit;
+    /* justify-content: center;
+    align-items: end; */
+
+}
+.cajita_flexbox {
+
+    height: 100px;
+    width: 280px;
+    background-color: rgb(141, 53, 66);
+    border-width: 3px;
+    border-color: rgba(255, 255, 255, 0.528);
+    border-style: solid;
+    margin: 2px;
+    
+}
 .textoinformativo {
 
     font-family: Arial, Helvetica, sans-serif;
